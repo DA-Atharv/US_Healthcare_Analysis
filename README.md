@@ -4,9 +4,10 @@
 - [Key Features](#key-features)
 - [Key Insights](#key-insights)
 - [Dashboards](#dashboards)
-- []()
+- [Healthcare Analysis Dashboard File.pbix](https://github.com/DA-Atharv/US_Healthcare_Analysis/blob/main/Healthcare%20Analysis%20Dashboard%20File.pbix)
+- [Summary Report](#https://github.com/DA-Atharv/US_Healthcare_Analysis/blob/main/Summary%20Report.docx )
 ## Overview: 
-The primary aim of this Power BI project is to comprehensively analyze the healthcare industry. Utilizing interactive visualizations and dynamic filters, the dashboard provides detailed insights into patient demographics, expenses, and treatment trends. The goal is to empower stakeholders with actionable information for strategic decision-making in healthcare management and policy formulation. By exploring diverse datasets and presenting insights in a user-friendly manner, this project aims to enhance understanding of the healthcare landscape, enabling informed decisions that drive positive outcomes and improve patient care quality.
+The primary aim of this Power BI project is to comprehensively analyze the healthcare industry data(https://github.com/DA-Atharv/US_Healthcare_Analysis/tree/main/DATA). Utilizing interactive visualizations and dynamic filters, the dashboard provides detailed insights into patient demographics, expenses, and treatment trends. The goal is to empower stakeholders with actionable information for strategic decision-making in healthcare management and policy formulation. By exploring diverse datasets and presenting insights in a user-friendly manner, this project aims to enhance understanding of the healthcare landscape, enabling informed decisions that drive positive outcomes and improve patient care quality.
 
 ## Key Features:
 + Comprehensive Analysis: Examines healthcare industry data, offering insights into patient demographics, expenses, and treatment trends.
