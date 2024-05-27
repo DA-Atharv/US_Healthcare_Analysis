@@ -1,4 +1,4 @@
-# US_Healthcare_Analysis
+# US_Healthcare_Analysis:
 ## Overview: 
 The primary aim of this Power BI project is to comprehensively analyze the healthcare industry. Utilizing interactive visualizations and dynamic filters, the dashboard provides detailed insights into patient demographics, expenses, and treatment trends. The goal is to empower stakeholders with actionable information for strategic decision-making in healthcare management and policy formulation. By exploring diverse datasets and presenting insights in a user-friendly manner, this project aims to enhance understanding of the healthcare landscape, enabling informed decisions that drive positive outcomes and improve patient care quality.
 
@@ -27,7 +27,7 @@ The primary aim of this Power BI project is to comprehensively analyze the healt
 
 ---
 
-| Patient Outcome Analysis | Healthcare Provider Metrics |
+| Patient Analysis | Payer Provider Analysis |
 |-------------|-------------|
 | ![image](https://github.com/DA-Atharv/US_Healthcare_Analysis/assets/159448408/9390434b-9224-491b-a823-be66bd1f28f4) | ![image](https://github.com/DA-Atharv/US_Healthcare_Analysis/assets/159448408/750085cd-4b4c-4ff0-9ea7-efb39e93ef1e) |
 
