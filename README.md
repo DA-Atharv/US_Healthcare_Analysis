@@ -21,23 +21,21 @@ This Power BI project is to comprehensively analyze the healthcare industry [dat
 + Stakeholder-Specific Views: Customizes views for hospitals, payers, providers, and patients.
 + Bookmarks: Enhances usability by allowing users to bookmark important insights.
 
+## Dashboards:
+| Executive Summary | Hospital Insights |
+|-------------|-------------|
+| ![HEALTHCARE-04](https://github.com/DA-Atharv/US_Healthcare_Analysis/assets/159448408/7712bd0a-ff58-4a76-b6d4-dcbc71b73e3a) | ![image](https://github.com/DA-Atharv/US_Healthcare_Analysis/assets/159448408/afb75267-56cf-444c-8f0c-00e5fc60d2f1) |
+
+| Patient Analysis | Payer Provider Analysis |
+|-------------|-------------|
+| ![image](https://github.com/DA-Atharv/US_Healthcare_Analysis/assets/159448408/9390434b-9224-491b-a823-be66bd1f28f4) | ![image](https://github.com/DA-Atharv/US_Healthcare_Analysis/assets/159448408/750085cd-4b4c-4ff0-9ea7-efb39e93ef1e) |
+
 ## Key Insights:
 + Regional Impact Analysis: Identifies regions severely affected by the pandemic in terms of patient count and expenses, aiding in resource allocation and decision-making.
 + Hospital Performance Evaluation: Evaluates hospitals with the highest accounts receivable and insurance payment ratios, enabling targeted interventions to address financial challenges.
 + Trend Analysis: Analyses trends in healthcare expenses and patient admissions over time, helping stakeholders understand evolving patterns and plan accordingly.
 + Payer Contribution Assessment: Examines payers contributing significantly to medical expense dispersion, informing strategies to manage cost-sharing arrangements effectively.
 + Procedure Dominance Recognition: Recognizes hospitals dominating procedures performed during the pandemic, guiding efforts to optimize resource utilization and patient care delivery.
-
-## Dashboards:
-| Executive Summary | Hospital Insights |
-|-------------|-------------|
-| ![HEALTHCARE-04](https://github.com/DA-Atharv/US_Healthcare_Analysis/assets/159448408/7712bd0a-ff58-4a76-b6d4-dcbc71b73e3a) | ![image](https://github.com/DA-Atharv/US_Healthcare_Analysis/assets/159448408/afb75267-56cf-444c-8f0c-00e5fc60d2f1) |
-
----
-
-| Patient Analysis | Payer Provider Analysis |
-|-------------|-------------|
-| ![image](https://github.com/DA-Atharv/US_Healthcare_Analysis/assets/159448408/9390434b-9224-491b-a823-be66bd1f28f4) | ![image](https://github.com/DA-Atharv/US_Healthcare_Analysis/assets/159448408/750085cd-4b4c-4ff0-9ea7-efb39e93ef1e) |
 
 ## Conclusion:
 This Power BI project offers a comprehensive exploration of healthcare data, including patient demographics, hospital performance, and payer-provider interactions. Through interactive visualizations and adaptable filters, stakeholders gain actionable insights for strategic decision-making. By analyzing regional impacts, evaluating hospital performance, and tracking trends, decision-makers can allocate resources effectively and address challenges proactively. The project's advanced analytics and visualization techniques empower informed decision-making and enhance patient care, making it an indispensable tool for healthcare stakeholders.
