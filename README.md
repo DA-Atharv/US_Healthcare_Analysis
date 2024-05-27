@@ -1,11 +1,12 @@
 # US_Healthcare_Analysis:
 ## Table of Contents:
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [Key Insights](#key-insights)
-- [Dashboards Images](#dashboards)
-- [Healthcare Analysis Dashboard File.pbix](https://github.com/DA-Atharv/US_Healthcare_Analysis/blob/main/Healthcare%20Analysis%20Dashboard%20File.pbix)
-- [Summary Report](https://github.com/DA-Atharv/US_Healthcare_Analysis/blob/main/Summary%20Report.docx )
+- [Overview:](#overview)
+- [Key Features:](#key-features)
+- [Insights:](#key-insights)
+- [Dashboards Images:](#dashboards)
+- [Healthcare Analysis Dashboard File.pbix:](https://github.com/DA-Atharv/US_Healthcare_Analysis/blob/main/Healthcare%20Analysis%20Dashboard%20File.pbix)
+- [Summary Report:](https://github.com/DA-Atharv/US_Healthcare_Analysis/blob/main/Summary%20Report.docx )
+- [Conclusion:](#Conclusion)
 ## Overview: 
 The primary aim of this Power BI project is to comprehensively analyze the healthcare industry [data](https://github.com/DA-Atharv/US_Healthcare_Analysis/tree/main/DATA). Utilizing interactive visualizations and dynamic filters, the dashboard provides detailed insights into patient demographics, expenses, and treatment trends. The goal is to empower stakeholders with actionable information for strategic decision-making in healthcare management and policy formulation. By exploring diverse datasets and presenting insights in a user-friendly manner, this project aims to enhance understanding of the healthcare landscape, enabling informed decisions that drive positive outcomes and improve patient care quality.
 
@@ -38,5 +39,5 @@ The primary aim of this Power BI project is to comprehensively analyze the healt
 |-------------|-------------|
 | ![image](https://github.com/DA-Atharv/US_Healthcare_Analysis/assets/159448408/9390434b-9224-491b-a823-be66bd1f28f4) | ![image](https://github.com/DA-Atharv/US_Healthcare_Analysis/assets/159448408/750085cd-4b4c-4ff0-9ea7-efb39e93ef1e) |
 
-## CONCLUSION:
+## Conclusion:
 This Power BI project offers a comprehensive exploration of healthcare data, including patient demographics, hospital performance, and payer-provider interactions. Through interactive visualizations and adaptable filters, stakeholders gain actionable insights for strategic decision-making. By analyzing regional impacts, evaluating hospital performance, and tracking trends, decision-makers can allocate resources effectively and address challenges proactively. The project's advanced analytics and visualization techniques empower informed decision-making and enhance patient care, making it an indispensable tool for healthcare stakeholders.
